@@ -6,12 +6,10 @@ RATINGS PAGE<br>
 https://itch.io/jam/gmtk-2025/rate/3775474
 <br>
 # About Game
-![](https://img.itch.zone/aW1hZ2UvMzc3NTQ3NC8yMjU4MDE2Ny5naWY=/original/t6fbYc.gif) <br><br>
 Jeanie is caught in a loop, stuck in the same old routine day-in and -out. Help her break out of the daily grind in this narrative-based, sidewalk-shredding, music-pumping, momentum-based platformer. <br>
 By switching between her two cassette tapes, Jeanie activates a single-use ability, indicated by an icon in the upper corner. These two powers are a speed boost (great for getting up ramps and clearing large gaps) and an extra jump (great for clearing those pesky obstacles).  <br>
 Each cassette also determines which rails Jeanie can ride, but she can only ride the rail corresponding to the color of her current tape.  <br>
-Quick reflexes are key: swap cassettes at the right moment to navigate each level, beat the clock, and finally escape the endless cycle of her daily grind. <br> <br>
- <br>
+Quick reflexes are key: swap cassettes at the right moment to navigate each level, beat the clock, and finally escape the endless cycle of her daily grind.
  ## Controls
 - [A] and [D] to move. [Spacebar] to jump. 
 - [Left shift] or [Z] to change the music.
