@@ -21,8 +21,8 @@ Quick reflexes are key: swap cassettes at the right moment to navigate each leve
 # Background
 This is my our team's submission to the 2025 GMTK game jam with the theme of loop. The game is made with Godot in 3 days. This is also my first Github collaboration. 
 ## Credits
-- Supermutt Games - Game Designer
-- Vennnot - Lead Programmer
-- ILikeStuff - Programmer
-- ItsAllure - Musician/SFX
-- Kim Ha Anh "Duck" Tran - Lead Artist
+- [**Supermutt Games**](https://supermuttgames.itch.io/) - Game Designer
+- [**Vennnot**](https://vennnot.itch.io/) - Lead Programmer
+- [**ILikeStuff**](https://ilikestuf.itch.io/) - Programmer
+- [**ItsAllure**](https://itsallure.itch.io/) - Musician/SFX
+- [**Duck Tran**](https://ducktran.itch.io/) - Lead Artist
